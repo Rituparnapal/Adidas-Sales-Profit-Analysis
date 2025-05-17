@@ -8,8 +8,7 @@ Among retailers, West Gear emerged as the top performer in both sales ($242.96 m
 
 Monthly trends showed peak sales in July ($95 million) and highest profits in August ($34.5 million), while March recorded the lowest figures in both categories. Despite a healthy profit margin of 36.91%, the profit per unit sold was relatively low at $0.40, suggesting potential areas for cost optimization or pricing strategy adjustments. 
 
-Overall, the data highlights Adidas’ strong market segments and seasonal trends, offering valuable insights for strategic planning and growth.
-Key Insights & Recommendations
+Overall, the data highlights Adidas’ strong market segments and seasonal trends, offering valuable insights for strategic planning and growth. These insights, derived through interactive dashboards and data aggregation techniques, support strategic decision-making in product development, pricing, and market expansion.
 
 # Key Insights & Recommendations
 1. Product Focus: Expand men’s street footwear line.
